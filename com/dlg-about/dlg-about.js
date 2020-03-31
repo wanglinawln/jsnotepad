@@ -10,7 +10,6 @@ var $dlgAbout = (function() {
               + '<div class="main notepad-dlg-main">'
                 + '<h1 class="slogan">JSNotepad</h1>'
                 + '<hr>'
-                + '<img class="app-logo" src="../../images/notepad-icon-32.png" alt="JSNotepad">'
                 + '<div class="info">'
                   + '<p>作者：王丽娜</p>'
                   + '<p>QQ：1416978302</p>'
