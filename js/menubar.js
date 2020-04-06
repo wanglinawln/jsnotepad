@@ -1,5 +1,6 @@
 /* exported $menubar*/
 /* global $dlgFont,$editor: true */
+/*eslint linebreak-style: ["error", "unix"]*/
 /* eslint no-console: ["error", { allow: ["warn", "error","log"] }] */
 // custom console
 

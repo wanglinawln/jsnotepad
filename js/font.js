@@ -1,6 +1,7 @@
 /* exported $dlgFont */
 /* global comList: true */
 /* eslint no-console: ["error", { allow: ["log"]   }] */
+/*eslint linebreak-style: ["error", "unix"]*/
 
 var $dlgFont = (function() {
     var $dlg = $(''

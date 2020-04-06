@@ -1,5 +1,6 @@
 /* exported $editor */
 /* global $menubar: true */
+/*eslint linebreak-style: ["error", "unix"]*/
 
 var $editor = (function() {
     var $DOM = $(''

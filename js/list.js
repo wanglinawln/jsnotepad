@@ -1,4 +1,5 @@
 /* exported comList */
+/*eslint linebreak-style: ["error", "unix"]*/
 
 function comList() {
     var $comList = $(''
